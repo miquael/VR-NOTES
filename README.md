@@ -2,6 +2,11 @@
 
 Notes on everything VR / AR / MR
 
+##VR News
+
+Haptical
+https://haptic.al
+
 
 ##WebVR
 
@@ -13,17 +18,11 @@ Import Frog Shaders into AFrame
 https://github.com/msj121/aframeFrogShaders
 
 
-##VR News
-
-Haptical
-https://haptic.al
-
-
 ##Network Connect
 
-
-SpirtualVR
+SpiritualVR
 http://spiritualvr.com
+
 
 ##Content Marketplaces
 
@@ -55,8 +54,11 @@ ScreenVR: Experience using your desktop on the web, in VR
 https://jonathanzwhite.github.io/screenvr
 
 
-
-
-## Other WebVR projects
+## AI + VR
 OpenAssistant WebVR
 https://github.com/miquael/openassistant-webvr
+
+
+## Hardware / Goggles
+MicroSoft Hololens
+https://www.microsoft.com/microsoft-hololens/en-us
