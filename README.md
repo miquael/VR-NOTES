@@ -8,6 +8,11 @@ Haptical
 https://haptic.al
 
 
+##VR / AR projections
+AR / VR Roadmap
+http://futureof.org/sports-2016/ar-vr-roadmap/
+
+
 ##WebVR
 
 ProxyControls.js : Mobile WebVR + Interactivity
