@@ -154,11 +154,11 @@ https://github.com/aframevr/awesome-aframe
 
 ###A-Frame resources
 
-*kframe* :
+**kframe** :
 Kevin's collection of A-Frame components and scenes.
 https://github.com/ngokevin/kframe
 
-*aframe-extras* :
+**aframe-extras** :
 Add-ons and helpers for A-Frame VR.
 https://github.com/donmccurdy/aframe-extras
 
