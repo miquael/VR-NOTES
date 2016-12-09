@@ -49,7 +49,7 @@ By 2025 the distinctions between AR and VR will be insignificant; the devices wi
 
 
 
-#VR + Data Visualization
+##VR + Data Visualization
 
 Winners of the Big Data VR Challenge
 http://www.mastersofpie.com/project/winners-of-the-big-data-vr-challenge-set-by-epic-games-wellcome-trust
@@ -106,12 +106,12 @@ ScreenVR: Experience using your desktop on the web, in VR
 https://jonathanzwhite.github.io/screenvr
 
 
-## AI + VR
+##AI + VR
 OpenAssistant WebVR
 https://github.com/miquael/openassistant-webvr
 
 
-## Hardware / Viewers
+##Hardware / Viewers
 
 HTC Vive :
 https://www.vive.com
@@ -132,7 +132,7 @@ Designing Augmented Reality Apps Based on How Our Brains Work
 https://blog.metavision.com/developing-ar-vr-data-visualization-tool-based-on-how-our-brains-work
 
 
-#GitHub VR resources
+##GitHub VR resources
 
 awesome-vr :
 An awesome curated list of Virtual Reality (VR) things.
@@ -147,7 +147,7 @@ A collection of awesome things regarding the A-Frame ecosystem.
 https://github.com/aframevr/awesome-aframe
 
 
-## A-Frame resources
+###A-Frame resources
 
 kframe :
 Kevin's collection of A-Frame components and scenes.
@@ -226,7 +226,7 @@ THREE.EquirectangularToCubemap :
 Convert an equirectangular panorama into a cubemap texture
 https://github.com/spite/THREE.EquirectangularToCubemap
 
-Wagner :
+Wagner
 Effects composer for Three.js
 https://github.com/spite/Wagner
 
@@ -253,8 +253,6 @@ Three.js - Wireframe
 https://threejs.org/docs/api/materials/MeshBasicMaterial.html
 
 
-
-
 ##A-Frame projects:
 
 APieceOfArtAsBigAsIndia :
@@ -276,7 +274,6 @@ https://uber.github.io/deck.gl/#/
 
 VISUALIZE DATA SETS ON THE WEB WITH UBER ENGINEERING’S DECK.GL FRAMEWORK
 https://eng.uber.com/deck-gl-framework/?imm_mid=0eaadb&cmp=em-data-na-na-newsltr_20161116
-
 
 
 ##Unty3D
@@ -305,7 +302,7 @@ http://unboring.net/workflows/animation.html
 https://github.com/arturitu/threejs-animation-workflow
 
 
-##Model resources
+###Model resources
 
 GCTrader:
 https://www.cgtrader.com
