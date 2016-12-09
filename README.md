@@ -239,8 +239,19 @@ Browse the web in VR by live streaming a web page into Aframe using PhantomJS an
 https://github.com/cjroth/aframe-phantomjs-continuous-streaming
 
 roomscale-scatter :
-
 https://github.com/micahstubbs/roomscale-scatter/tree/master/06
+
+sphere-collider :
+It emits events when objects collide. Those events are received by the `grab` component. For the official aframe tracked controllers demo, where you can grab blocks, there's an `aabb-collider` component, and it's the same basic idea.  
+Neither is very precise, just using bounding spheres or boxes for performance
+https://github.com/donmccurdy/aframe-extras/blob/master/examples/vive/index.html
+demo: https://sandbox.donmccurdy.com/vr/vive/
+The red grid is coming from physics, there's a physics debug option.
+But under the hood it's THREE.js's wireframe material.
+
+Three.js - Wireframe
+https://threejs.org/docs/api/materials/MeshBasicMaterial.html
+
 
 
 
