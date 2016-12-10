@@ -74,6 +74,9 @@ https://proxy-controls.donmccurdy.com
 Import Frog Shaders into AFrame
 https://github.com/msj121/aframeFrogShaders
 
+Oculus Carmel - WebVR
+https://developer.oculus.com/blog/carmel-developer-preview-launches-today/
+
 
 ##Network Connect
 
