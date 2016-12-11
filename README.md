@@ -264,6 +264,9 @@ But under the hood it's THREE.js's wireframe material.
 Three.js - Wireframe
 https://threejs.org/docs/api/materials/MeshBasicMaterial.html
 
+aframe-polygon-primitive :
+https://github.com/andreasplesch/aframe-polygon-primitive
+
 
 ##A-Frame projects:
 
