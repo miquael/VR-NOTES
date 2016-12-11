@@ -249,6 +249,10 @@ https://github.com/cjroth/aframe-phantomjs-continuous-streaming
 roomscale-scatter :
 https://github.com/micahstubbs/roomscale-scatter/tree/master/06
 
+aframe-link-demo :
+Link traversal in VR using A-Frame JS library!
+https://github.com/321C4/aframe-link-demo
+
 sphere-collider :
 It emits events when objects collide. Those events are received by the `grab` component. For the official aframe tracked controllers demo, where you can grab blocks, there's an `aabb-collider` component, and it's the same basic idea.  
 Neither is very precise, just using bounding spheres or boxes for performance
@@ -356,3 +360,9 @@ http://unboring.net/cases/deepLinking.html
 
 Visor
 http://vizor.io
+
+
+## Portfolios
+
+Erika Layton
+https://321c4.github.io/portfolio-gallery/
