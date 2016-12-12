@@ -268,6 +268,20 @@ aframe-polygon-primitive :
 https://github.com/andreasplesch/aframe-polygon-primitive
 
 
+aframe-leap-hands :
+A-Frame VR component for Leap Motion controller.
+https://github.com/openleap/aframe-leap-hands
+
+aframe debug-ui
+https://github.com/dmarcos/debug-ui
+It's a simple way to achieve what dat.gui would do.
+it hooks up component properties to the vive touchpad.
+you can iterate over the properties using the grip button.
+and adjust moving your thumb up and down the touchpad.
+It's easier and even batter than having a visual slider on screen.
+that can get in the way when modifying values and seeing the result immediately.
+
+
 ##A-Frame projects:
 
 APieceOfArtAsBigAsIndia :
