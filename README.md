@@ -205,7 +205,7 @@ aframe-broadcast-component :
 A component to send and consume entity data over WebSockets for simple multiuser A-Frame
 https://www.npmjs.com/package/aframe-broadcast-component
 
-aframe-react :
+aframe-react : ***
 Build virtual reality (VR) experiences with A-Frame and React.
 https://github.com/ngokevin/aframe-react
 
@@ -249,10 +249,6 @@ https://github.com/cjroth/aframe-phantomjs-continuous-streaming
 roomscale-scatter :
 https://github.com/micahstubbs/roomscale-scatter/tree/master/06
 
-aframe-link-demo :
-Link traversal in VR using A-Frame JS library!
-https://github.com/321C4/aframe-link-demo
-
 sphere-collider :
 It emits events when objects collide. Those events are received by the `grab` component. For the official aframe tracked controllers demo, where you can grab blocks, there's an `aabb-collider` component, and it's the same basic idea.  
 Neither is very precise, just using bounding spheres or boxes for performance
@@ -267,10 +263,12 @@ https://threejs.org/docs/api/materials/MeshBasicMaterial.html
 aframe-polygon-primitive :
 https://github.com/andreasplesch/aframe-polygon-primitive
 
-
 aframe-leap-hands :
 A-Frame VR component for Leap Motion controller.
 https://github.com/openleap/aframe-leap-hands
+
+aframe-crawling-cursor
+https://github.com/jujunjun110/aframe-crawling-cursor
 
 aframe debug-ui
 https://github.com/dmarcos/debug-ui
@@ -280,6 +278,20 @@ you can iterate over the properties using the grip button.
 and adjust moving your thumb up and down the touchpad.
 It's easier and even batter than having a visual slider on screen.
 that can get in the way when modifying values and seeing the result immediately.
+
+
+UnityAFrameExporter
+https://github.com/umiyuki/UnityAFrameExporter
+
+angle
+A-Frame command-line tool for installing components and scaffolding templates.
+https://github.com/ngokevin/angle
+
+
+## A-Frame AR
+
+argon-aframe ***
+http://argonjs.io/argon-aframe/
 
 
 ##A-Frame projects:
@@ -371,6 +383,10 @@ https://github.com/brianpeiris/RiftSketch
 
 Case Study: Deep Linking
 http://unboring.net/cases/deepLinking.html
+
+
+Equirectangular Images on Flickr
+https://www.flickr.com/groups/equirectangular/
 
 
 ##Creation Tools
