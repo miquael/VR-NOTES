@@ -113,6 +113,14 @@ http://surebak.com/snow
 ScreenVR: Experience using your desktop on the web, in VR
 https://jonathanzwhite.github.io/screenvr
 
+Nanome :
+Advanced Virtual Reality tools for Scientific Research and Development
+http://nanome.ai
+
+SpatialOS :
+a computation platform that allows you to exceed the power of a single game engine or server.
+https://spatialos.improbable.io/
+
 
 ##AI + VR
 OpenAssistant WebVR
@@ -393,6 +401,15 @@ https://www.flickr.com/groups/equirectangular/
 
 Visor
 http://vizor.io
+
+Scene VR :
+a multiuser server for Virtual Reality experiences
+http://scenevr.com
+
+
+EditorVR :
+Author VR in VR (Unity)
+https://github.com/Unity-Technologies/EditorVR
 
 
 ## Portfolios
