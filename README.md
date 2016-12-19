@@ -8,13 +8,11 @@ Notes on everything VR / AR / MR
 Modal VR dev signup
 http://www.modalvr.com/developers
 
-
 HTC Vive: $799
 https://www.vive.com/us/product
 
 Meta 2 dev kit: $949
 https://buy.metavision.com/products/meta2
-
 
 Submit app:
 Virtual Leap :
@@ -287,13 +285,16 @@ and adjust moving your thumb up and down the touchpad.
 It's easier and even batter than having a visual slider on screen.
 that can get in the way when modifying values and seeing the result immediately.
 
-
 UnityAFrameExporter
 https://github.com/umiyuki/UnityAFrameExporter
 
 angle
 A-Frame command-line tool for installing components and scaffolding templates.
 https://github.com/ngokevin/angle
+
+aframe-gltf :
+An A-Frame component for loading and animating glTF models / scenes.
+https://github.com/xirvr/aframe-gltf
 
 
 ## A-Frame AR
@@ -420,6 +421,6 @@ https://321c4.github.io/portfolio-gallery/
 
 ## 3D Videos
 
-J360 : 
+J360 :
 360 Video and Photo Capture in 4K for Three.js
 https://github.com/imgntn/j360
