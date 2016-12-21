@@ -1,40 +1,18 @@
-#VR Notes
+# VR Notes
 
 Notes on everything VR / AR / MR
 
-
-##Priority Shift ***
-
-Modal VR dev signup
-http://www.modalvr.com/developers
-
-HTC Vive: $799
-https://www.vive.com/us/product
-
-Meta 2 dev kit: $949
-https://buy.metavision.com/products/meta2
-
-Submit app:
-Virtual Leap :
-The world's biggest WebVR Hackathon
-http://www.virtuleap.com
-
-
-### ----------------------------------------------------------------------------
-
-##VR News
+## VR News
 
 Haptical
 https://haptic.al
 
-
-##VR / AR exponential future projections
+## VR / AR exponential future projections
 
 AR / VR Roadmap
 http://futureof.org/sports-2016/ar-vr-roadmap
 
-
-###2025 AR/VR CONVERGENCE
+### 2025 AR/VR CONVERGENCE
 By 2025 the distinctions between AR and VR will be insignificant; the devices will converge and be multifunctional. Their vast capabilities to blend natural and synthetic vision will cause us to rethink everything—from the social norms of human interaction to how private and public spaces are designed and navigated. New sports will inevitably emerge that will be designed to test athletes’ performance across the spectrum of mixed reality.
 
 >• Headsets and AR glasses are still selling at peak smartphone numbers—150 million per quarter—because each year, the devices improve so rapidly.
@@ -51,8 +29,7 @@ By 2025 the distinctions between AR and VR will be insignificant; the devices wi
 >• In 2025, we’ll wear “smart contact lenses” that will gradually evolve to full AR functionality.
 
 
-
-##VR + Data Visualization
+## VR + Data Visualization
 
 Winners of the Big Data VR Challenge
 http://www.mastersofpie.com/project/winners-of-the-big-data-vr-challenge-set-by-epic-games-wellcome-trust
@@ -63,7 +40,7 @@ https://blog.metavision.com/home
 Everything Wrong with Traditional Data Visualization and How VR is Poised to Fix It
 http://www.roadtovr.com/everything-wrong-with-traditional-data-visualization-and-how-vr-is-poised-to-fix-it/2/
 
-##WebVR
+## WebVR
 
 ProxyControls.js : Mobile WebVR + Interactivity
 Connect input devices from your desktop to your mobile phone with WebRTC.
@@ -76,19 +53,19 @@ Oculus Carmel - WebVR
 https://developer.oculus.com/blog/carmel-developer-preview-launches-today/
 
 
-##Network Connect
+## Network Connect
 
 SpiritualVR
 http://spiritualvr.com
 
 
-##Content Marketplaces
+## Content Marketplaces
 
 Unreal Engine Marketplace
 https://www.unrealengine.com/marketplace
 
 
-##VC
+## VC
 
 Vive X
 http://www.vive.com/us/vivex/
@@ -97,7 +74,7 @@ Virtual Reality Venture Capital Alliance
 http://www.vrvca.com/
 
 
-##Killer Content
+## Killer Content
 
 A Galactic Simulation for VR
 http://uptherevr.com
@@ -120,7 +97,8 @@ a computation platform that allows you to exceed the power of a single game engi
 https://spatialos.improbable.io/
 
 
-##AI + VR
+## AI + VR
+
 OpenAssistant WebVR
 https://github.com/miquael/openassistant-webvr
 
@@ -140,13 +118,13 @@ Modal VR :
 http://www.modalvr.com/
 
 
-##VR/AR UX
+## VR/AR UX
 
 Designing Augmented Reality Apps Based on How Our Brains Work
 https://blog.metavision.com/developing-ar-vr-data-visualization-tool-based-on-how-our-brains-work
 
 
-##GitHub VR resources
+## GitHub VR resources
 
 awesome-vr :
 An awesome curated list of Virtual Reality (VR) things.
@@ -160,8 +138,7 @@ awesome-aframe :
 A collection of awesome things regarding the A-Frame ecosystem.
 https://github.com/aframevr/awesome-aframe
 
-
-###A-Frame resources
+### A-Frame resources
 
 **kframe** :
 Kevin's collection of A-Frame components and scenes.
@@ -248,6 +225,9 @@ aframe-keyboard :
 A virtual reality keyboard and text editor in Aframe
 https://github.com/cjroth/aframe-keyboard
 
+ThreeJS Editor
+https://threejs.org/editor/
+
 aframe-phantomjs-continuous-streaming :
 Browse the web in VR by live streaming a web page into Aframe using PhantomJS and ffmpeg.
 https://github.com/cjroth/aframe-phantomjs-continuous-streaming
@@ -296,6 +276,9 @@ aframe-gltf :
 An A-Frame component for loading and animating glTF models / scenes.
 https://github.com/xirvr/aframe-gltf
 
+aframe-voice-commands :
+https://github.com/lmalave/aframe-voice-commands
+
 
 ## A-Frame AR
 
@@ -303,20 +286,20 @@ argon-aframe ***
 http://argonjs.io/argon-aframe/
 
 
-##A-Frame projects:
+## A-Frame projects:
 
 APieceOfArtAsBigAsIndia :
 An augmented reality sculpture accessible via the WWW, SMS and Mobile Devices.
 https://github.com/JGL/APieceOfArtAsBigAsIndia
 
 
-##A-Frame Tuts
+## A-Frame Tuts
 
 How to Write an A-Frame VR Component
 http://ngokevin.com/blog/aframe-component
 
 
-##Advanced
+## Advanced
 
 deck-gl-framework :
 A WebGL-powered framework for visual exploratory data analysis of large datasets.
@@ -326,16 +309,16 @@ VISUALIZE DATA SETS ON THE WEB WITH UBER ENGINEERING’S DECK.GL FRAMEWORK
 https://eng.uber.com/deck-gl-framework/?imm_mid=0eaadb&cmp=em-data-na-na-newsltr_20161116
 
 
-##Unty3D
+## Unty3D
 
 
-###Unity WebVR
+### Unity WebVR
 
 Unity WebVR
 https://github.com/xirvr/unity-webvr
 
 
-###Unity3D + Node
+### Unity3D + Node
 
 unity-multiplayer-game-dev-node
 Unity Multiplayer Game Development with Node
@@ -345,14 +328,14 @@ PART 1: USING NODE.JS AS A GAME SERVER FOR UNITY3D
 https://whackcode.wordpress.com/2013/09/19/unity3d-talking-to-node-js
 
 
-##Modeling
+## Modeling
 
 Workflow: Animation from Blender to three.js
 http://unboring.net/workflows/animation.html
 https://github.com/arturitu/threejs-animation-workflow
 
 
-###Model resources
+### Model resources
 
 GCTrader:
 https://www.cgtrader.com
@@ -371,20 +354,20 @@ https://www.cgtrader.com/3d-models/animals/mammal/fox-cartoon-rigged
 https://clara.io/view/1a03ac6b-d6b5-4c2d-9f1a-c80068311396
 
 
-##VR Learning
+## VR Learning
 
 learnvr :
 A repository to collect VR learning resources
 https://github.com/misslivirose/learnvr
 
 
-##VR Hackathons
+## VR Hackathons
 
 Virtual Leap :
 The world's biggest WebVR Hackathon
 http://www.virtuleap.com
 
-##Misc
+## Misc
 
 RiftSketch :
 An HTML5 live-coding environment for the Oculus Rift
@@ -398,7 +381,7 @@ Equirectangular Images on Flickr
 https://www.flickr.com/groups/equirectangular/
 
 
-##Creation Tools
+## Creation Tools
 
 Visor
 http://vizor.io
@@ -406,7 +389,6 @@ http://vizor.io
 Scene VR :
 a multiuser server for Virtual Reality experiences
 http://scenevr.com
-
 
 EditorVR :
 Author VR in VR (Unity)
