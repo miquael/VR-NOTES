@@ -138,6 +138,16 @@ awesome-aframe :
 A collection of awesome things regarding the A-Frame ecosystem.
 https://github.com/aframevr/awesome-aframe
 
+### React VR
+
+react-vr :
+https://github.com/facebookincubator/react-vr
+
+React VR documentation
+https://facebookincubator.github.io/react-vr
+
+
+
 ### A-Frame resources
 
 **kframe** :
@@ -406,3 +416,16 @@ https://321c4.github.io/portfolio-gallery/
 J360 :
 360 Video and Photo Capture in 4K for Three.js
 https://github.com/imgntn/j360
+
+
+# MISC NOTES
+
+## Difference between A-Frame React and React VR:
+
+https://github.com/facebookincubator/react-vr/issues/18
+
+• React VR apps are written in JavaScript, with JSX tags that are transpiled into JS. A-Frame apps use HTML, with custom HTML tags (whether this is advantage or disadvantage depends if you want to code in JS or HTML :) although A-Frame components are built with JavaScript.
+• React VR is based on the React core (in production use since 2011, open sourced in 2013) and A-Frame is written from scratch (mid-to-late 2015). So contributing back to a-frame is not possible since they have different underlying implementations.
+• React VR is build on top of React Native, with a JS runtime for WebVR, while aframe-react is a very thin layer on top of A-Frame to bridge with React JS.
+
+• To add, having access to flexbox based layout within React VR shouldn't be underestimated when defining dynamic or UIs that need that little bit of iteration to get right. Layout is often forgotten but very important.
