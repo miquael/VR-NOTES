@@ -28,6 +28,9 @@ By 2025 the distinctions between AR and VR will be insignificant; the devices wi
 
 >• In 2025, we’ll wear “smart contact lenses” that will gradually evolve to full AR functionality.
 
+Is Web VR Ready :
+https://iswebvrready.org/
+
 
 ## VR + Data Visualization
 
@@ -235,9 +238,6 @@ aframe-keyboard :
 A virtual reality keyboard and text editor in Aframe
 https://github.com/cjroth/aframe-keyboard
 
-ThreeJS Editor
-https://threejs.org/editor/
-
 aframe-phantomjs-continuous-streaming :
 Browse the web in VR by live streaming a web page into Aframe using PhantomJS and ffmpeg.
 https://github.com/cjroth/aframe-phantomjs-continuous-streaming
@@ -407,6 +407,19 @@ https://github.com/Unity-Technologies/EditorVR
 VRTX :
 http://blackish.at/?p=1
 https://youtu.be/0aDCHJcaCMM
+
+## In-Browser 3D Editors
+
+ThreeJS Editor :
+https://threejs.org/editor
+
+WebGL Editor :
+https://webglstudio.org
+
+A-Frame Inspector :
+https://github.com/aframevr/aframe-inspector
+
+
 
 
 ## Portfolios
