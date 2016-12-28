@@ -32,6 +32,12 @@ Is Web VR Ready :
 https://iswebvrready.org/
 
 
+## Web3D specs
+
+X3DOM / X3D
+https://www.x3dom.org
+
+
 ## VR + Data Visualization
 
 Winners of the Big Data VR Challenge
@@ -78,6 +84,9 @@ http://www.vrvca.com/
 
 
 ## Killer Content
+
+Altered Qualia
+http://alteredqualia.com
 
 A Galactic Simulation for VR
 http://uptherevr.com
@@ -415,9 +424,13 @@ https://threejs.org/editor
 
 WebGL Editor :
 https://webglstudio.org
+https://github.com/jagenjo/webglstudio.js
 
 A-Frame Inspector :
 https://github.com/aframevr/aframe-inspector
+
+Final Mesh WebGL Editor :
+
 
 
 
