@@ -301,6 +301,17 @@ https://github.com/lmalave/aframe-voice-commands
 aframe MMD :
 https://github.com/takahirox/a-mmd
 
+aframe-outline
+https://github.com/takahirox/aframe-outline
+
+
+## A-Frame DataViz
+
+Adit :
+R & Shiny meet WebVR & A-Frame for data exploration like never before
+https://github.com/wmurphyrd/adit
+https://wmurphyrd.shinyapps.io/adit/
+
 
 ## A-Frame AR
 
