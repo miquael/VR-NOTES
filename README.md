@@ -298,6 +298,9 @@ https://github.com/xirvr/aframe-gltf
 aframe-voice-commands :
 https://github.com/lmalave/aframe-voice-commands
 
+aframe MMD :
+https://github.com/takahirox/a-mmd
+
 
 ## A-Frame AR
 
