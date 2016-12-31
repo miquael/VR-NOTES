@@ -462,6 +462,22 @@ J360 :
 https://github.com/imgntn/j360
 
 
+## Comapanies Hiring WebVR
+Way to go    http://a-way-to-go.com/
+Datafox    https://datafox.com/keywords/webvr
+Vizor    http://vizor.io/
+VRSE    http://vrse.com/
+Z360 Ltd    http://www.z360.com/
+Human    http://www.ishuman.co/
+Mozilla    http://mozvr.com/
+Datavized    http://datavized.com/
+Uforis    http://www.uforis.com/
+GenesisVR    http://www.genesisvr.com/#virtualreality-recruitment-specialists
+VRLab    http://vrlab.dk/
+JM Visual Creativity    http://jmvisualcreativity.es/
+DrawVR    http://drawvr.com/
+
+
 # MISC NOTES
 
 ## Difference between A-Frame React and React VR:
