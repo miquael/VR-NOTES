@@ -445,10 +445,6 @@ https://github.com/aframevr/aframe-inspector
 
 Final Mesh WebGL Editor :
 
-
-
-
-
 ## Portfolios
 
 Erika Layton
