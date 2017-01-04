@@ -304,6 +304,9 @@ https://github.com/takahirox/a-mmd
 aframe-outline
 https://github.com/takahirox/aframe-outline
 
+aframe-alongpath-component
+https://github.com/protyze/aframe-alongpath-component
+
 
 ## A-Frame DataViz
 
