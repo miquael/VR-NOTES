@@ -281,13 +281,13 @@ It's a simple way to achieve what dat.gui would do.
 it hooks up component properties to the vive touchpad.
 you can iterate over the properties using the grip button.
 and adjust moving your thumb up and down the touchpad.
-It's easier and even batter than having a visual slider on screen.
+It's easier and even batter than having a visual slider on scremeshlineen.
 that can get in the way when modifying values and seeing the result immediately.
 
 UnityAFrameExporter
 https://github.com/umiyuki/UnityAFrameExporter
 
-angle
+angle :
 A-Frame command-line tool for installing components and scaffolding templates.
 https://github.com/ngokevin/angle
 
@@ -301,11 +301,17 @@ https://github.com/lmalave/aframe-voice-commands
 aframe MMD :
 https://github.com/takahirox/a-mmd
 
-aframe-outline
+aframe-outline :
 https://github.com/takahirox/aframe-outline
 
-aframe-alongpath-component
+aframe-alongpath-component :
 https://github.com/protyze/aframe-alongpath-component
+
+aframe-instancing :
+https://github.com/takahirox/aframe-instancing
+example: https://cdn.rawgit.com/takahirox/aframe-instancing/153e6d9b128b807ebe606b1c65a3f43c09f7af61/index.html
+@takahiro says: "Currently I got every code in a component so far as first prototype" : code: https://github.com/takahirox/aframe-instancing/blob/153e6d9b128b807ebe606b1c65a3f43c09f7af61/index.js
+@takahiro says: "I used THREE.InstancedBufferGeometry and THREE.InstancedBufferAttribute for instancing and wrote some shader programs".
 
 
 ## A-Frame DataViz
