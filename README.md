@@ -106,7 +106,10 @@ http://nanome.ai
 
 SpatialOS :
 a computation platform that allows you to exceed the power of a single game engine or server.
-https://spatialos.improbable.io/
+https://spatialos.improbable.io
+
+MathWorld VR :
+http://vr.sld.gs/mathworldvr/
 
 
 ## AI + VR
