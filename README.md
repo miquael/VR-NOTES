@@ -310,7 +310,7 @@ https://github.com/takahirox/aframe-outline
 aframe-alongpath-component :
 https://github.com/protyze/aframe-alongpath-component
 
-aframe mesh-ui components : 
+aframe mesh-ui components :
 https://github.com/mkeblx/mesh-ui
 
 aframe-instancing :
@@ -318,6 +318,9 @@ https://github.com/takahirox/aframe-instancing
 example: https://cdn.rawgit.com/takahirox/aframe-instancing/153e6d9b128b807ebe606b1c65a3f43c09f7af61/index.html
 @takahiro says: "Currently I got every code in a component so far as first prototype" : code: https://github.com/takahirox/aframe-instancing/blob/153e6d9b128b807ebe606b1c65a3f43c09f7af61/index.js
 @takahiro says: "I used THREE.InstancedBufferGeometry and THREE.InstancedBufferAttribute for instancing and wrote some shader programs".
+
+aframe-border-component : 
+https://github.com/mitchallen/aframe-border-component
 
 
 ## A-Frame DataViz
