@@ -109,7 +109,10 @@ a computation platform that allows you to exceed the power of a single game engi
 https://spatialos.improbable.io
 
 MathWorld VR :
-http://vr.sld.gs/mathworldvr/
+http://vr.sld.gs/mathworldvr
+
+A Piece of Art as Big as India 
+http://joelgethinlewis.com/category/projects/a-piece-of-art-as-big-as-india/
 
 
 ## AI + VR
@@ -319,8 +322,11 @@ example: https://cdn.rawgit.com/takahirox/aframe-instancing/153e6d9b128b807ebe60
 @takahiro says: "Currently I got every code in a component so far as first prototype" : code: https://github.com/takahirox/aframe-instancing/blob/153e6d9b128b807ebe606b1c65a3f43c09f7af61/index.js
 @takahiro says: "I used THREE.InstancedBufferGeometry and THREE.InstancedBufferAttribute for instancing and wrote some shader programs".
 
-aframe-border-component : 
+aframe-border-component :
 https://github.com/mitchallen/aframe-border-component
+
+aframe-filemanager
+https://github.com/jhspetersson/filemanager-vr
 
 
 ## A-Frame DataViz
